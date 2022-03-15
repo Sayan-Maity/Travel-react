@@ -2,7 +2,7 @@
 
 This project is hosted on Netlify. CLick here to see the project live [Tour and Travel](https://focused-swanson-b44672.netlify.app).
 
-## Available Scripts
+## Steps to set up Locally 
 
 To run this project in your local directory, you can follow this below commands:
 
