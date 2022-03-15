@@ -4,7 +4,11 @@ This project is hosted on Netlify. CLick here to see the project live [Tour and 
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run this project in your local directory, you can follow this below commands:
+
+### `cd .\travel-react\`
+
+This command takes you into the main folder where this project is kept.\
 
 ### `npm start`
 
@@ -14,10 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
