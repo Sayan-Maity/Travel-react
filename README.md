@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Tour and Travel 
 
 This project is hosted on Netlify. CLick here to see the project live [Tour and Travel](https://focused-swanson-b44672.netlify.app).
 
