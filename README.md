@@ -1,6 +1,6 @@
 # Tour and Travel 
 
-This project is hosted on Netlify. CLick here to see the project live [Tour and Travel](https://focused-swanson-b44672.netlify.app).
+This project is hosted on Netlify. CLick here to see the project live " https://sayancr777-tesla-landingpage.netlify.app/ "
 
 ## Steps to set up Locally 
 
